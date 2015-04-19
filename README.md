@@ -1,4 +1,7 @@
-#include<simplecpp>
+the code is as follows:
+
+//code starts
+#include <simplecpp>
 #include <stdlib.h>     /* srand, rand */
 #include <time.h>
 main_program{
